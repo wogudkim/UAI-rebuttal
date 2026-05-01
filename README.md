@@ -10,6 +10,6 @@
 
 <img src="./Fig/figure2.png" alt="Additional figure" width="500">
 
-<img src="./Fig/figure4.png" alt="Additional figure" width="1000">
+<img src="./Fig/figure4.png" alt="Additional figure" width="800">
 
-<img src="./Fig/figure5.png" alt="Additional figure" width="1000">
+<img src="./Fig/figure5.png" alt="Additional figure" width="800">
